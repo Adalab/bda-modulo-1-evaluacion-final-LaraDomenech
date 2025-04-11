@@ -1,13 +1,13 @@
 # bda-modulo-1-evaluacion-final-LaraDomenech
 bda-modulo-1-evaluacion-final-LaraDomenech created by GitHub Classroom
 
-Este repositorio contiene el proyecto correspondiente al **Examen Final** del Módulo 1, donde se implementa la clase **TiendaOnline** siguiendo los requerimientos establecidos en el enunciado.
+Este repositorio contiene el proyecto correspondiente al **Examen Final** del Módulo 1, en él se crea la clase **TiendaOnline** siguiendo lo establecido por el enunciado.
 
 ## Descripción General
 
-La clase `TiendaOnline` gestiona:
-- Un **inventario** (lista de diccionarios) con productos y sus datos.
-- Un **diccionario de clientes**, que incluye email y un historial de compras.
+La clase `TiendaOnline` tiene como atributos:
+- Un **inventario** (lista de diccionarios) con los productos, el precio que tienen y la cantidad de cada uno.
+- Un **diccionario de clientes**, que incluye el email y un historial de compras.
 - Un acumulador de **ventas totales** (float).
 
 ### Principales Métodos Implementados
